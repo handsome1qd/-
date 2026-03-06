@@ -27,7 +27,7 @@
 
 ```bash
 # 1. 克隆官方代码仓库
-git clone [https://github.com/](https://github.com/)[你的组织或用户名]/还是第一版吧.git
+git clone https://github.com/handsome1qd/-.git
 
 # 2. 进入项目工作区
 cd 还是第一版吧
