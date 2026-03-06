@@ -18,7 +18,7 @@
 | 姓名 | 学号 | Scrum 角色 | 团队定位 | 核心职责 |
 | :--- | :--- | :--- | :--- | :--- |
 | 黄沛然 | 9109223095 | 🛡️ **Scrum Master** | Raid Leader | 维护敏捷流程，扫除开发障碍，严控工程规范与代码合并质量。 |
-| 刘宇飞 |  | 💻 **Developer** / PO | Quest Giver | 梳理需求，核心业务代码编写，参与底层架构设计与系统重构。 |
+| 刘宇飞 | 9109223107 | 💻 **Developer** / PO | Quest Giver | 梳理需求，核心业务代码编写，参与底层架构设计与系统重构。 |
 | 邹育龙 | 9109223090 | 💻 **Dev Team** | Core DPS | 核心业务代码编写，主导测试用例构建与自动化集成环境。 |
 
 *(注：Scrum Master 亦深度参与核心代码开发与严格的 Code Review 工作)*
@@ -27,7 +27,7 @@
 
 ```bash
 # 1. 克隆官方代码仓库
-git clone https://github.com/handsome1qd/-.git
+git clone https://github.com/handsome1qd/V1_For_Now.git
 
 # 2. 进入项目工作区
 cd 还是第一版吧
