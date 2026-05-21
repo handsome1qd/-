@@ -1,0 +1,17 @@
+{
+  "name": "v1-for-now-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MUD game RESTful API backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test",
+    "test:unit": "node --test engine/",
+    "test:api": "node --test tests/"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {}
+}
